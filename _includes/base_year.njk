@@ -1,0 +1,45 @@
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="author" content="Sam Brown">
+		<meta name="description" content="title drawn by Sam Brown">
+		<meta name="date" content="{{ date }}">
+		<meta name="year" content="{{ year }}">
+
+		<title>{{ title }}</title>
+		<link rel="stylesheet" href="dog.css">
+	</head>
+
+<body>
+
+	 {% block content %}{{ content | safe }}{% endblock %}
+       
+    
+
+
+
+	<nav>
+			<h2>also at:</h2>
+			<ul>		
+				<li><a href="http://www.buildingaworld.com">gift shop</a></li>
+				<li><a href="http://explodingdog.com/mailinglist/">emailing list</a></li>
+				
+			</ul>
+			<ul>
+				<li><a href="https://www.instagram.com/explodingdog_sam/">instagram</a></li>
+				<li><a href="http://twitter.com/Explodingdog">twitter</a></li>
+				<li><a href="http://explodingdog.tumblr.com/">tumblr</a></li>
+				
+				
+			</ul>	
+		</nav>
+
+		<small>
+				©2017 Sam Brown
+			</small>
+		
+</body>
+
+</html>
+

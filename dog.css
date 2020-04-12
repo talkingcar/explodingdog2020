@@ -1,0 +1,108 @@
+html  {
+    font-family: 'Helvetica Neue', sans-serif;
+    max-width: 100%;
+}
+
+img {
+    max-width: 100%;   
+}
+
+
+body {
+    max-width: 90%;
+   padding: 2%;  
+}
+
+section, nav, article {
+    padding: 1.4%;
+    
+}
+
+div.search {
+    padding-left: 3%;
+}
+
+div.day {
+    max-width: 90%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+}
+
+h3,day {
+    color: grey
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+a:visited {
+    color: lightgrey;
+}
+
+h1 {
+    margin: 1% 0 0 0;
+    font-size: 2em;   
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 1% 0 1% 0;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin: 1% 0 1% 0;
+    
+    
+}
+
+h2.main {
+    margin-top: 8%;
+}
+
+
+
+
+p {
+    margin-top: 1%;
+    padding-left: 3%;   
+    font-size: larger;
+}
+
+ul, ol {
+    
+    margin-top: 0%;
+    list-style: none;
+    padding-left: 3%;
+    
+}
+
+li, day {
+    display: block;
+    line-height: 1.6em;
+    font-size: 1.3em;
+    font-weight: bold;
+    padding-bottom: .5em;
+}
+
+nav > ul > li {
+    display: inline;
+    margin-left: 2%
+}
+
+ol li {
+    display: inline;
+    padding: 1%;
+    font-weight: 600;
+    font-size: 4em;
+    
+}
+
+small {
+    color: lightgray;
+    padding-left: 3%; 
+}
