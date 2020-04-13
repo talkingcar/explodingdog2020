@@ -6,7 +6,7 @@ year : '2014'
 date : '2014-01-20' 
 img_file : '/drawing/imheadingnorthagain.png' 
 html_file : 'imheadingnorthagain' 
-next_html : '.html' 
+next_html : 'untitled.html' 
 year_order : '1' 
 permalink : "title/{{html_file}}.html"
 ---
