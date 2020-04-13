@@ -6,7 +6,7 @@ year : '2010'
 date : '2010-01-12' 
 img_file : '/drawing/teachmesomething.png' 
 html_file : 'teachmesomething' 
-next_html : '.html' 
+next_html : 'im99percentsureiwanttomarryyou.html' 
 year_order : '1' 
 permalink : "title/{{html_file}}.html"
 ---
