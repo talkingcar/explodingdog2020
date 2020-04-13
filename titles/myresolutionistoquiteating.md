@@ -6,7 +6,7 @@ year : '2015'
 date : '2015-01-06' 
 img_file : '/drawing/myresolutionistoquiteating.png' 
 html_file : 'myresolutionistoquiteating' 
-next_html : '.html' 
+next_html : 'icouldloveyouforever.html' 
 year_order : '1' 
 permalink : "title/{{html_file}}.html"
 ---
