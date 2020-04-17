@@ -6,7 +6,7 @@ year : '2009'
 date : '2009-01-05' 
 img_file : '/drawing/yournewgirlfriendlookslikeatrex.png' 
 html_file : 'yournewgirlfriendlookslikeatrex' 
-next_html : '.html' 
+next_html : 'imgettingnervousiwishyouwouldcomehome.html' 
 year_order : '1' 
 permalink : "title/{{html_file}}.html"
 ---
