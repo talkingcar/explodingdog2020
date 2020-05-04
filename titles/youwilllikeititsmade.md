@@ -6,7 +6,7 @@ year : '2004'
 date : '2004-03-09' 
 img_file : '/drawing/youwilllikeititsmade.png' 
 html_file : 'youwilllikeititsmade' 
-next_html : 'itchanges2.html' 
+next_html : 'ihaveaquestion.html' 
 year_order : '25' 
 permalink : "title/{{html_file}}.html"
 ---
