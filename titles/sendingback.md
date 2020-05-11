@@ -6,7 +6,7 @@ year : '2001'
 date : '2001-02-15' 
 img_file : '/drawing/sendingback.png' 
 html_file : 'sendingback' 
-next_html : 'onlyhim.html' 
+next_html : 'hello.html' 
 year_order : '26' 
 permalink : "title/{{html_file}}.html"
 ---

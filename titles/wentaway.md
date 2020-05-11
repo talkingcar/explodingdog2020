@@ -6,7 +6,7 @@ year : '2001'
 date : '2001-01-08' 
 img_file : '/drawing/wentaway.png' 
 html_file : 'wentaway' 
-next_html : '.html' 
+next_html : '100years.html' 
 year_order : '1' 
 permalink : "title/{{html_file}}.html"
 ---
