@@ -6,7 +6,7 @@ year : '2000'
 date : '2000-02-12' 
 img_file : '/drawing/amihallu.png' 
 html_file : 'amihall' 
-next_html : 'shitdems.html' 
+next_html : 'silkyk.html' 
 year_order : '156' 
 permalink : "title/{{html_file}}.html"
 ---

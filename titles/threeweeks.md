@@ -6,7 +6,7 @@ year : '2000'
 date : '2000-01-29' 
 img_file : '/drawing/twoweeks.png' 
 html_file : 'threeweeks' 
-next_html : 'hello.html' 
+next_html : 'ilikemy.html' 
 year_order : '89' 
 permalink : "title/{{html_file}}.html"
 ---

@@ -6,7 +6,7 @@ year : '2000'
 date : '2000-10-31' 
 img_file : '/drawing/sayilove.png' 
 html_file : 'sayilove' 
-next_html : 'talkingabout.html' 
+next_html : 'stickpeople.html' 
 year_order : '564' 
 permalink : "title/{{html_file}}.html"
 ---

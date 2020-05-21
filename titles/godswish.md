@@ -6,7 +6,7 @@ year : '2000'
 date : '2000-08-04' 
 img_file : '/drawing/bemyself.png' 
 html_file : 'godswish' 
-next_html : 'lovedme.html' 
+next_html : 'eatbyhand.html' 
 year_order : '498' 
 permalink : "title/{{html_file}}.html"
 ---

@@ -6,7 +6,7 @@ year : '2000'
 date : '2000-02-07' 
 img_file : '/drawing/fudgemelon.png' 
 html_file : 'fudgemellon' 
-next_html : 'nicotine.html' 
+next_html : 'gimmie.html' 
 year_order : '132' 
 permalink : "title/{{html_file}}.html"
 ---

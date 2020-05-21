@@ -6,7 +6,7 @@ year : '2000'
 date : '2000-01-17' 
 img_file : '/drawing/itoldthe.png' 
 html_file : 'itoldthe' 
-next_html : 'ijustwant.html' 
+next_html : 'stopit.html' 
 year_order : '39' 
 permalink : "title/{{html_file}}.html"
 ---
