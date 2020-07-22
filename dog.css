@@ -89,7 +89,7 @@ li, day {
     padding-bottom: .5em;
 }
 
-nav > ul > li {
+footer > ul > li {
     display: inline;
     margin-left: 2%
 }
