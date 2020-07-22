@@ -7,15 +7,13 @@ img {
     max-width: 100%;   
 }
 
-
 body {
-    max-width: 90%;
+    max-width: 95%;
    padding: 2%;  
 }
 
 section, nav, article {
-    padding: 1.4%;
-    
+    padding: 1.4%;   
 }
 
 div.search {
@@ -37,15 +35,13 @@ a {
     color: inherit;
 }
 
-
-
 a:visited {
     color: lightgrey;
 }
 
 h1 {
     margin: 1% 0 0 0;
-    font-size: 2em;   
+    font-size: 3em;   
 }
 
 h2 {
@@ -55,17 +51,12 @@ h2 {
 
 h3 {
     font-size: 1.2em;
-    margin: 1% 0 1% 0;
-    
-    
+    margin: 1% 0 1% 0;    
 }
 
 h2.main {
     margin-top: 8%;
 }
-
-
-
 
 p {
     margin-top: 1%;
@@ -77,29 +68,36 @@ ul, ol {
     
     margin-top: 0%;
     list-style: none;
-    padding-left: 3%;
-    
+    padding-left: 3%;    
 }
 
 li, day {
     display: block;
-    line-height: 1.6em;
-    font-size: 1.3em;
+    line-height: 2.2em;
+    font-size: 2em;
     font-weight: bold;
     padding-bottom: .5em;
 }
 
 footer > ul > li {
     display: inline;
+    line-height: normal;
     margin-left: 2%
 }
 
-ol li {
+.years > li {
+    display: inline;
+    line-height: normal;
+    padding: 1%;
+    font-weight: 600;
+    font-size: 4em;  
+}
+
+.years-drawing > li {
     display: inline;
     padding: 1%;
     font-weight: 600;
-    font-size: 4em;
-    
+    font-size: 2em;  
 }
 
 small {
